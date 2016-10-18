@@ -16,8 +16,8 @@ Pod::Spec.new do |s|
   #
 
   s.name         = "O2View"
-  s.version      = “0.0.1”
-  s.summary      = "an smart iOS URL Router"
+  s.version      = "0.0.1"
+  s.summary      = "A custom view for test"
 
   s.homepage     = "https://github.com/dabindeng/O2View"
   # s.screenshots  = "www.example.com/screenshots_1.gif", "www.example.com/screenshots_2.gif"
@@ -53,7 +53,7 @@ Pod::Spec.new do |s|
   #
 
   # s.platform     = :ios
-  s.platform     = :ios, “9.0”
+  s.platform     = :ios, "9.0"
 
   #  When using multiple platforms
   # s.ios.deployment_target = "5.0"
